@@ -1,0 +1,8 @@
+CCC CSNT1200F26 Intro to Networking Fall 2026
+
+IP addresses are categorized in classes, A B C identified by the first byte of the number
+Class A has values 0-127
+Class B has values 128-223
+Class C has values 224-255
+
+
