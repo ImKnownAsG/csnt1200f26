@@ -62,3 +62,15 @@ Yellow fiber - single mode
 
 Twisted pair cable maxes around 100m.
 
+Unicast - one person
+Multicast - mutliple but not all people
+Broadcast - everyone
+
+ATIN - Application, Transport, Internet, Network
+All People Seem To Need Data Processing - Application (A), Presentation (A), Session (A), Transport (T), Network (I), Data Link (N), Physical (N)
+
+Port numbers change according to the service being used (youtube, netacad, google sheets)
+
+Has anything changed?  Are you the only one impacted?
+
+
