@@ -79,4 +79,21 @@ Focus is on IEEE and TIA for organizations
 
 Goals for the class - to prepare for our future us...the good :) or the bad :(
 
+Router Settings:
+ > Enable											Enter priviliged EXEC mode
+ # configure terminal								Enter global configuration mode
+ (config)# hostname									Set the hostname
+ (config)# enable secret							Encrypted protection of priviliged EXEC mode
+ (config)# line console 0							Enter console configuration mode
+ (config-line)# password							Un-encrypted protection of EXEC mode
+ (config-line)# login								Require login to user EXEC mode
+ (config-line)# line vty 0 4 						Enter the virtual terminal configuration mode
+ (config-line)# password							Un-encrypted protection of the virtual terminal
+ (config-line)# login								Require login to virtual terminal
+ (config-line)# transport input { ssh | telnet }	Define available virtual pathways
+ (config-line)# exit								Leave line configuration mode
+ (config)# service password-encryption				Encrypts any un-encrypted passwords
+ (config)# banner motd								Set the welcome banner (for legal)
+ (config)# end										Go all the way to base priviliged EXEC mode
+ # copy running-config startup-config				Copy setting changes to become the default settings
 
