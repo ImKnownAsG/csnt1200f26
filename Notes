@@ -97,3 +97,6 @@ Router Settings:
  (config)# end										Go all the way to base priviliged EXEC mode
  # copy running-config startup-config				Copy setting changes to become the default settings
 
+Transport layer is responsible for verifying transmission of all data.
+Network layer is responsible for packet sizing, getting the size limit from the data link layer.
+
