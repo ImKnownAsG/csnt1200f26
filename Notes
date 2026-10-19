@@ -100,3 +100,6 @@ Router Settings:
 Transport layer is responsible for verifying transmission of all data.
 Network layer is responsible for packet sizing, getting the size limit from the data link layer.
 
+If the MAC address is known then layer 1 and 2 are probably good.
+
+
