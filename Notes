@@ -102,4 +102,52 @@ Network layer is responsible for packet sizing, getting the size limit from the 
 
 If the MAC address is known then layer 1 and 2 are probably good.
 
+SSH Setup:
+Switch-
+
+enable
+configure terminal
+hostname S1
+enable secret cisco
+no ip domain-lookup
+username helpdesk password cisco
+domain-name cisco.com
+interface vlan1
+ip address 192.168.10.11 255.255.255.0
+description LAN A
+no shutdown
+ip default-gateway 192.168.101.1
+crypto key generate rsa -> 1024
+line vty 0 4
+transport input ssh
+login local
+line console 0
+login local
+exit
+banner motd # Warning #
+service password-encryption
+exit
+copy run start
+
+Router-
+
+enable
+configure terminal
+hostname R1
+enable secret cisco
+no ip domain-lookup
+username helpdesk password cisco
+ip domain-name cisco.com
+interface g0/0/0
+description LAN A
+ip address 192.168.10.1 255.255.255.0
+no shutdown
+crypto key generate rsa -> 1024
+line vty 0 4
+transport input ssh
+login local
+banner motd # Warning #
+service password-encryption
+exit
+copy run start
 
