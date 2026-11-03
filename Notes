@@ -151,3 +151,4 @@ service password-encryption
 exit
 copy run start
 
+ipv6 unicast-routing - causes unicast packets to be forwarded into other ipv6 networks known to the router
