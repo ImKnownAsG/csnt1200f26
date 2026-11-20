@@ -152,3 +152,9 @@ exit
 copy run start
 
 ipv6 unicast-routing - causes unicast packets to be forwarded into other ipv6 networks known to the router
+
+ipv6 nd ? 
+ - other-config... tells hosts to use SLAAC
+ - managed-config...tells hosts to use network service to get ipv6 address
+
+
