@@ -1,0 +1,32 @@
+
+Pinging www.afrinic.net [196.216.3.4] with 32 bytes of data:
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=242ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=243ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=243ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=243ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=245ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=242ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=245ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=243ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=243ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=248ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=244ms TTL=47
+Reply from 196.216.3.4: bytes=32 time=245ms TTL=47
+
+Ping statistics for 196.216.3.4:
+    Packets: Sent = 25, Received = 25, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 242ms, Maximum = 248ms, Average = 243ms

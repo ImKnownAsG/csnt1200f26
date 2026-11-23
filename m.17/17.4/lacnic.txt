@@ -1,0 +1,32 @@
+
+Pinging www-cont.lacnic.net [200.3.14.184] with 32 bytes of data:
+Reply from 200.3.14.184: bytes=32 time=161ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=165ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=164ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=167ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=171ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=164ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=164ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=164ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=163ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=168ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=165ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=163ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=165ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=164ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=166ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=166ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=167ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=166ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=167ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=169ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=166ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=166ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=166ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=166ms TTL=43
+Reply from 200.3.14.184: bytes=32 time=165ms TTL=43
+
+Ping statistics for 200.3.14.184:
+    Packets: Sent = 25, Received = 25, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 161ms, Maximum = 171ms, Average = 165ms
